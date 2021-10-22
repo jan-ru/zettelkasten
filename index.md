@@ -11,3 +11,5 @@ Other pages on this zettelkasten:
 [Domainnames](https://jan-ru.github.io/zettelkasten/domainnames)
 
 [[domainnames]] werkt dit ook?
+
+[[domainnames]] of is de toevoeging "md" nodig?
