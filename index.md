@@ -10,5 +10,7 @@ Zettelkasten (notes) are a way to structure (rather: link) notes.
 Other pages on this zettelkasten:
 
 [[domainnames.md]]
+
 [[blockchain.md]]
+
 [[etf.md]]
