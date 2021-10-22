@@ -2,6 +2,6 @@
 
 CO2OK
 
-[[etf]]
+[[etf.md]]
 
 [[blockchain]]
