@@ -7,3 +7,5 @@ Get started by reading [[README]]#.
 Other pages on this zettelkasten:
 
 - [[faq]]#
+
+[Subpage on Domainnames](https://jan-ru.github.io/zettelkasten/domainnames)
