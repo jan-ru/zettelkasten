@@ -1,9 +1,6 @@
 # Our Notes
 
-
 A better way to exchange info then email?
-
-Template site, generated from [neuron-template](https://github.com/srid/neuron-template).
 
 Zettelkasten (notes) are a way to structure (rather: link) notes.
 
@@ -14,3 +11,5 @@ Other pages on this zettelkasten:
 [[blockchain.md]]
 
 [[etf.md]]
+
+Every idea/subject is a page. The pages get linked in whichever order.
